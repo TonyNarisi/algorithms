@@ -26,7 +26,7 @@ def string_compression(str)
   end
 end
 
-# Create a string and call string compression method on it
+# Create strings and call string compression method on them
 
 str = "aaabbeeddccccdd"
 
